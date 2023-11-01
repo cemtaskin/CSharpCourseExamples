@@ -38,16 +38,6 @@ namespace Operators
 
             num1 *= 3;
             Console.WriteLine("The multiplication assignment opertaror used on first number is : {0}", num1);
-
-
-
-
-
-
-
-
-
-
             Console.ReadKey();
 
         }
